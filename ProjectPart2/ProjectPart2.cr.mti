@@ -1,0 +1,80 @@
+C:/Users/Jasmine/Documents/ECE352/ProjectPart2/TSIC_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/TSIC_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TSIC_tb
+
+Top level modules:
+	TSIC_tb
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/state6_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/state6_reg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module state6_reg
+
+Top level modules:
+	state6_reg
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/d_en_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/d_en_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_en_ff
+
+Top level modules:
+	d_en_ff
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/RCA12.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/RCA12.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RCA12
+
+Top level modules:
+	RCA12
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/d_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/d_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/datapath.sv {2 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/datapath.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module datapath
+** Warning: C:/Users/Jasmine/Documents/ECE352/ProjectPart2/datapath.sv(43): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Jasmine/Documents/ECE352/ProjectPart2/datapath.sv(43): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/Jasmine/Documents/ECE352/ProjectPart2/datapath.sv(64): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+-- Compiling module EEP
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/PTAT_A2D.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/PTAT_A2D.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PTAT_A2D
+
+Top level modules:
+	PTAT_A2D
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/serial_comm.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/serial_comm.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module serial_comm
+-- Compiling module manchester_RX
+-- Compiling module manchester_TX
+
+Top level modules:
+	serial_comm
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/TSIC.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/TSIC.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TSIC
+
+Top level modules:
+	TSIC
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart2/FA.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart2/FA.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}

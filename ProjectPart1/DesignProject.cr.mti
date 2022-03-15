@@ -1,0 +1,36 @@
+C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_en_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_en_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_en_ff
+
+Top level modules:
+	d_en_ff
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart1/RCA12.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart1/RCA12.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RCA12
+
+Top level modules:
+	RCA12
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart1/FA.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart1/FA.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} C:/Users/Jasmine/Documents/ECE352/ProjectPart1/datapath_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/Jasmine/Documents/ECE352/ProjectPart1/datapath_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module datapath_tb
+
+Top level modules:
+	datapath_tb
+
+} {} {}}

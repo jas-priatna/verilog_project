@@ -1,0 +1,181 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jasmine/Documents/ECE352/AHW4
+vd_en_ff
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1586723039
+!i10b 1
+!s100 0iO0MH53CLOzC_DjQQhkN3
+IcPE<ZNCEf8dc2JnCjgdJG0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 d_en_ff_sv_unit
+S1
+Z3 dC:/Users/Jasmine/Documents/ECE352/ProjectPart1
+w1586398799
+8C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_en_ff.sv
+FC:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_en_ff.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1586723039.000000
+!s107 C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_en_ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_en_ff.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vd_ff
+R0
+R1
+!i10b 1
+!s100 ;70iHO>zX^JT]4FimOiJ60
+I0l4OEX7Iz0EaEYdMF^b630
+R2
+!s105 d_ff_sv_unit
+S1
+R3
+w1565729038
+8C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_ff.sv
+FC:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_ff.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jasmine/Documents/ECE352/ProjectPart1/d_ff.sv|
+!s101 -O0
+!i113 1
+R6
+vdatapath
+R0
+R1
+!i10b 1
+!s100 cFOKcZ2^]eU^`=D7NRnV73
+IzlS0`WmD=GlkWlG20[cR@0
+R2
+Z7 !s105 datapath_sv_unit
+S1
+R3
+Z8 w1586722970
+Z9 8C:\Users\Jasmine\Documents\ECE352\ProjectPart1\datapath.sv
+Z10 FC:\Users\Jasmine\Documents\ECE352\ProjectPart1\datapath.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:\Users\Jasmine\Documents\ECE352\ProjectPart1\datapath.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\Jasmine\Documents\ECE352\ProjectPart1\datapath.sv|
+!s101 -O0
+!i113 1
+R6
+vdatapath_tb
+R0
+R1
+!i10b 1
+!s100 [goiiK;M8OgK9Z88_CzVd1
+IQ^`bnYhafYmPG05MnK@YP2
+R2
+!s105 datapath_tb_sv_unit
+S1
+R3
+w1585344434
+8C:/Users/Jasmine/Documents/ECE352/ProjectPart1/datapath_tb.sv
+FC:/Users/Jasmine/Documents/ECE352/ProjectPart1/datapath_tb.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Jasmine/Documents/ECE352/ProjectPart1/datapath_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jasmine/Documents/ECE352/ProjectPart1/datapath_tb.sv|
+!s101 -O0
+!i113 1
+R6
+vEEP
+R0
+R1
+!i10b 1
+!s100 =Hc83KdJaK_iFdE^dJn5N3
+I:i80a@X<4H5PMbUzbX][A3
+R2
+R7
+S1
+R3
+R8
+R9
+R10
+L0 64
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+n@e@e@p
+vFA
+R0
+R1
+!i10b 1
+!s100 e6eACfNSSH8>bHYJRcWmD0
+I[iIlBE2^V]eRBQ2^dePY[2
+R2
+!s105 FA_sv_unit
+S1
+R3
+w1580515876
+8C:/Users/Jasmine/Documents/ECE352/ProjectPart1/FA.sv
+FC:/Users/Jasmine/Documents/ECE352/ProjectPart1/FA.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Jasmine/Documents/ECE352/ProjectPart1/FA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jasmine/Documents/ECE352/ProjectPart1/FA.sv|
+!s101 -O0
+!i113 1
+R6
+n@f@a
+vRCA12
+R0
+R1
+!i10b 1
+!s100 DXC8CgTdV9iazFKRo@@180
+I@I?j8i^To5?]VANV`j6nm0
+R2
+!s105 RCA12_sv_unit
+S1
+R3
+w1586721613
+8C:/Users/Jasmine/Documents/ECE352/ProjectPart1/RCA12.sv
+FC:/Users/Jasmine/Documents/ECE352/ProjectPart1/RCA12.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Jasmine/Documents/ECE352/ProjectPart1/RCA12.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jasmine/Documents/ECE352/ProjectPart1/RCA12.sv|
+!s101 -O0
+!i113 1
+R6
+n@r@c@a12
